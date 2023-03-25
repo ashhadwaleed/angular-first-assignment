@@ -1,0 +1,6 @@
+.star span {
+  width: 100px;
+  height: 3px;
+  border-radius: 5px;
+  background-color: white;
+}
